@@ -1,0 +1,8 @@
+def hello(x,y) :
+    a = x + y
+    b = x - y
+    c = x*y
+    d = x/y
+    print("  ",a,"  ",b,"  ",c,"  ",d)
+
+hello(20,40)

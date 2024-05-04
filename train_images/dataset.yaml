@@ -1,0 +1,4 @@
+train: 'C:\Users\hacke\OneDrive\Documents\programming files\package_yolov8\train_images\train'
+val: 'C:\Users\hacke\OneDrive\Documents\programming files\package_yolov8\train_images\val'
+nc: 3  # Number of classes
+names: ['carton','polybag','paperbag']  # List of class names
