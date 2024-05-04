@@ -1,5 +1,5 @@
 myenv
 new_training_set
 runs
-yolo8l.pt
-yolo8n.pt
+yolov8l.pt
+yolov8n.pt
